@@ -1,7 +1,6 @@
 👋 Hi, I’m Akshaya Mudam (@akshaya-527)
 👀 I’m interested in Web Development, App Development, and Competitive Programming
 🌱 I’m currently learning Data Structures and Algorithms (DSA)
-💞️ I’m looking to collaborate on MERN Stack projects
 📫 How to reach me: https://www.linkedin.com/in/akshaya-mudam-52914325b
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love solving challenging coding problems and exploring new technologies!
