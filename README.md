@@ -8,9 +8,6 @@
 # 💫 About Me:
 🔭 I’m currently working on project based on App development<br>👯 I’m looking to collaborate and contribute in any and every way possible<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about anything. I will try to help you as much as I can
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaya-mudam-52914325b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshayamudam@gmail.com) 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <h4 align="left">📋 Programming Languages</h4>
