@@ -5,8 +5,27 @@
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-# 💫 About Me:
-🔭 I’m currently working on project based on App development<br>👯 I’m looking to collaborate and contribute in any and every way possible<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about anything. I will try to help you as much as I can
+- 🎓Pursuing B.Tech in IT at B V Raju Institute of Technology
+ 
+- 🌱 I’m currently learning **Spring Boot** for backend development
+ 
+- 🧠 Skilled in **C++, Java, Python, Flutter, Firebase, Git, GitHub**
+ 
+- 💬 Ask me about *App development, Core Java, OOPS*
+  
+- 🤝 I enjoy collaborating with developers across domains to build impactful tech
+</br>
+  
+## GSSOC(24-Ext) Badges 🪶
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</p>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -66,17 +85,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<!-- <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp; -->
+<a href="https://discordapp.com/users/1190279932060905493"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
 <a href="mailto:akshayamudam@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
 <a href="https://www.linkedin.com/in/akshaya-mudam-52914325b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp;
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://github-readme-stats.vercel.app/api?username=akshaya-527&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshaya-527&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya-527&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<br />
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=akshaya-527&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats" width=50% /> &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaya-527&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abhi-0987"  width=38% />
+</p>
+&nbsp;
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaya-527&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaya-527&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
+<p align="center">
+  <h2>Thank you for visiting my profile! see you next time 😊</h2>
+</p>
+
