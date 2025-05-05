@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img src="https://github.com/akshaya-527/akshaya-527/blob/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🎓Pursuing B.Tech in IT at B V Raju Institute of Technology
  
@@ -71,9 +71,9 @@
 
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
 <p>
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /> &nbsp;
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Smart%20Interviews-2C3E50?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -94,7 +94,7 @@
 <br />
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=akshaya-527&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats" width=50% /> &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaya-527&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abhi-0987"  width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=akshaya-527&show_icons=true&theme=github_dark&hide=contribs&show=prs_merged_percentage" alt="GitHub Stats" width=50% /> &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaya-527&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abhi-0987"  width=38% />
 </p>
 &nbsp;
 
@@ -103,8 +103,8 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=akshaya-527&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
+<br/>
 
-<p align="center">
-  <h2>Thank you for visiting my profile! see you next time 😊</h2>
-</p>
+<h2 align="center">Thank you for visiting my profile! See you next time 😊</h2>
+
 
